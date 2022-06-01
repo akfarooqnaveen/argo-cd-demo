@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: akfarooqnaveen/versionui:1.0.0
+        image: akfarooqnaveen/versionui:1.0.1
         ports:
         - containerPort: 8080
